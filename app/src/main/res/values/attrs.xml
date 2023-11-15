@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Casilla">
+        <attr name="Hipotenocha" format="boolean" />
+        <attr name="Revelada" format="boolean" />
+    </declare-styleable>
+</resources>

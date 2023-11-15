@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Las locas Hipotenochas</string>
+    <!--  Menu  -->
+    <string name="new_game">Comenzar el Juego!</string>
+    <string name="help">Instrucciones</string>
+    <string name="settings">Configurar el juego</string>
+        <string name="settingsTitulo">Escoge la dificultad</string>
+        <string name="settingsFacil">Principiante</string>
+        <string name="settingsMedio">Amateur</string>
+        <string name="settingsDificil">Avanzado</string>
+    <string name="personaje">Escoge al personaje</string>
+    <!-- Titulos -->
+    <string name="instruccionesTitulo">INSTRUCCIONES</string>
+    <string name="derrotaTitulo">¡Perdiste!</string>
+
+    <!-- Textos -->
+    <string name="instrucciones">El juego es tipo buscaminas: Cuando pulsas en una casilla, sale un número que identifica cuántas hipotenochas hay alrededor: Ten cuidado porque si pulsas en una casilla que tenga una hipotenocha escondida, perderás. Si crees o tienes la certeza de que hay una hipotenocha, haz un click largo sobre la casilla para señalarla NO hagas un click largo en una casilla donde no haya una hipotenocha porque perderás. Ganas una vez hayas encontrado todas las hipotenochas.</string>
+    <string name="derrota">Has perdido, ¿Quieres volver a intentarlo?</string>
+
+
+</resources>

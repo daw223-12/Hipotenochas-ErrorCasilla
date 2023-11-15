@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hipotenochas</string>
+    <!-- Menu -->
+    <string name="new_game">New game</string>
+    <string name="help">Help</string>
+    <string name="settings">Settings</string>
+        <string name="settingsTitulo">Choose your level</string>
+        <string name="settingsFacil">Begginer</string>
+        <string name="settingsMedio">Amateur</string>
+        <string name="settingsDificil">Pro-Player</string>
+    <string name="personaje">Choose the characther</string>
+
+    <!--  Titulos  -->
+    <string name="instruccionesTitulo">INSTRUCCTIONS</string>
+    <string name="derrotaTitulo">Looser!</string>
+
+    <!-- Textos -->
+    <string name="instrucciones">The game is like Minesweeper: When you click on a cell, a number appears indicating how many mines are nearby. Be careful, because if you click on a cell that contains a hidden mine, you\'ll lose. If you suspect or are sure there\'s a mine, long-press the cell to flag it. DO NOT long-press a cell without a mine, or you\'ll lose. You win once you\'ve flagged all the mines.</string>
+    <string name="derrota">You lose. Do u want to retry?</string>
+
+
+</resources>
